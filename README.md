@@ -5,8 +5,7 @@ A new Flutter project.
 
 <table>
   <tr>
-    <th>Splash_Screen</th>
-    <th>Intro_1</th>
+  
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/6ccaf0ab-3c92-4d3f-b6de-a1719e7f2e1e" alt="iPhone 13 Pro Max" height="300"></td>
