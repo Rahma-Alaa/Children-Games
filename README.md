@@ -3,48 +3,6 @@
 A new Flutter project.
 
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-
-  th, td {
-    text-align: center;
-    vertical-align: middle;
-  }
-
-  img {
-    width: 100%; /* Default for smaller screens */
-    max-width: 500px; /* Limit width for larger screens */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Center the image */
-    margin: auto;
-  }
-
-  /* For larger screens */
-  @media (min-width: 768px) {
-    table {
-      table-layout: fixed; /* Evenly distribute table cells */
-    }
-
-    td {
-      width: 50%; /* Two columns side by side */
-    }
-  }
-
-  /* For very small screens */
-  @media (max-width: 767px) {
-    table, tr, td {
-      display: block; /* Stack elements */
-    }
-
-    td {
-      width: 100%; /* Full width for images */
-      margin-bottom: 10px; /* Add spacing */
-    }
-  }
-</style>
 
 <table>
   <tr>
