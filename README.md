@@ -10,8 +10,8 @@ A new Flutter project.
     <th>  </th>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/593d2b5a-5188-4c66-8949-59ff18fa0ada" alt="iPhone 13 Pro Max 2" height="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/a1b45c26-2314-47b8-ba97-a6b79b2f7af7" alt="iPhone 13 Pro Max 3" height="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/593d2b5a-5188-4c66-8949-59ff18fa0ada" alt="iPhone 13 Pro Max 2" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/a1b45c26-2314-47b8-ba97-a6b79b2f7af7" alt="iPhone 13 Pro Max 3" width="300"></td>
   </tr>
   <tr>
     <th>  </th>
