@@ -17,5 +17,5 @@ A new Flutter project.
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/593d2b5a-5188-4c66-8949-59ff18fa0ada" alt="iPhone 13 Pro Max 2" height="300"></td>
-    <td><img src="github.com/user-attachments/assets/aff80a8a-a093-425a-93f6-b19f25e7f54c" alt="iPhone 13 Pro Max 3" height="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/a1b45c26-2314-47b8-ba97-a6b79b2f7af7" alt="iPhone 13 Pro Max 3" height="300"></td>
   </tr>
