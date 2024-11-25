@@ -43,5 +43,11 @@ A new Flutter project.
   </tr>
 </table>
 
+## ScreenRecord
 
-https://drive.google.com/file/d/12faXSK8mMUhhtkGxALFORlpzVzuMzy-S/view
+
+Here is an embedded video demonstration:
+
+[![Watch the video](https://github.com/your-repo/path/to/thumbnail.png)](https://drive.google.com/file/d/12faXSK8mMUhhtkGxALFORlpzVzuMzy-S/view)
+
+
